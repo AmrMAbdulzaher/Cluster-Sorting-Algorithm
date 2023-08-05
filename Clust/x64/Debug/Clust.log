@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\amrma\source\repos\Clust\Clust\MyForm.h(88,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\amrma\source\repos\Clust\Clust\MyForm.h(384,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\amrma\source\repos\Clust\Clust\MyForm.h(517,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\amrma\source\repos\Clust\Clust\MyForm.h(531,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Clust.vcxproj -> C:\Users\amrma\source\repos\Clust\x64\Debug\Clust.exe

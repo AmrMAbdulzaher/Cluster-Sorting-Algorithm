@@ -1,0 +1,4 @@
+C:\Users\amrma\source\repos\Clust\Clust\x64\Debug\Clust.vcxproj.AssemblyReference.cache
+C:\Users\amrma\source\repos\Clust\Clust\x64\Debug\Clust.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\amrma\source\repos\Clust\Clust\x64\Debug\Clust.MyForm.resources
+C:\Users\amrma\source\repos\Clust\Clust\x64\Debug\Clust.vcxproj.GenerateResource.cache
